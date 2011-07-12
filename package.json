@@ -1,0 +1,30 @@
+{ 
+"author": {
+	"name": "Stuart Malin", 
+	"email": "stuart@yellowhelium.com",
+	"url": "http://yellowhelium.com/"
+},
+"bugs" : {
+	"url": "http://github.com/zhami/module-simple/issues"
+},
+"dependencies": {},
+"description": "Simple demonstration of modules",
+"directories" : {
+	"lib" : "./lib"
+},
+"engines": {"node": ">= 0.4.0"},
+"keywords": ["modules", "example"],
+"licenses":[
+	{
+		"type":"MIT",
+		"url":"http://github.com/zhami/module-simple/raw/master/LICENSE"
+	}
+],
+"main": "./app.js",
+"name": "module-simple",
+"repository": {
+	"type": "url",
+	"url": "http://github.com/zhami/module-simple"
+},
+"version": "0.0.1"
+}
